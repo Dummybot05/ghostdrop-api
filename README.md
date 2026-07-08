@@ -1,1 +1,0 @@
-# ghostdrop-api
